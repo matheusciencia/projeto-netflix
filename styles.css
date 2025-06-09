@@ -31,6 +31,14 @@ header {
     cursor: pointer;
 }
 
+#join-button:hover {
+    opacity: 0.8;
+}
+
+#join-button:active {
+    opacity: 0.5;
+}
+
 h1 {
     font-size: 55px;
     color: white;
@@ -71,6 +79,15 @@ input {
     border: 0;
     font-size: 24px;
     border-radius: 1px;
+    cursor: pointer;
+}
+
+#email-button:hover {
+    opacity: 0.8;
+}
+
+#email-button:active {
+    opacity: 0.5;
 }
 
 
